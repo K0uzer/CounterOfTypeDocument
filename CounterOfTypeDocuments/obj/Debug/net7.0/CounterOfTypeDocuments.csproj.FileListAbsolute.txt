@@ -1,0 +1,14 @@
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\bin\Debug\net7.0\CounterOfTypeDocuments.exe
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\bin\Debug\net7.0\CounterOfTypeDocuments.deps.json
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\bin\Debug\net7.0\CounterOfTypeDocuments.runtimeconfig.json
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\bin\Debug\net7.0\CounterOfTypeDocuments.dll
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\bin\Debug\net7.0\CounterOfTypeDocuments.pdb
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.GeneratedMSBuildEditorConfig.editorconfig
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.AssemblyInfoInputs.cache
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.AssemblyInfo.cs
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.csproj.CoreCompileInputs.cache
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.dll
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\refint\CounterOfTypeDocuments.dll
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.pdb
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\CounterOfTypeDocuments.genruntimeconfig.cache
+E:\CounterOfTypeDocuments\CounterOfTypeDocuments\obj\Debug\net7.0\ref\CounterOfTypeDocuments.dll
